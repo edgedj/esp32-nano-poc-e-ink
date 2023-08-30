@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/e-ink/.vs
+/e-ink/bin
+/e-ink/obj
+/e-ink/packages

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "e-ink", "e-ink.nfproj", "{D2BE541F-7976-4094-A689-9441A91323E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BE541F-7976-4094-A689-9441A91323E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9895A317-BC86-4692-9B8E-90D5E4CD7682}
+	EndGlobalSection
+EndGlobal
